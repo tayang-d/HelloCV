@@ -136,6 +136,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MatOp.cpp" />
+    <ClCompile Include="Scalar.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
